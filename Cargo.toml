@@ -1,0 +1,7 @@
+[package]
+name = "tarpcdemo"
+version = "0.1.0"
+authors = ["ZhiFeng Hu <hufeng1987@gmail.com>"]
+
+[dependencies]
+tarpc = "0.6"
